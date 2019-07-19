@@ -1,7 +1,5 @@
 # LoanProgram
 This is solution for Loan Program task
-Loan Program
-
 This application is designed to be used by a loan officer to calculate information about Loans.  They offer both home loans and auto loans.
 
 Class Creation
